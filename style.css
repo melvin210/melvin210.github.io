@@ -11,6 +11,10 @@ p {
   text-align: center;
 }
 
+li {
+  text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
