@@ -3,6 +3,14 @@ body {
   text-align: centre;
 }
 
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
