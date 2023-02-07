@@ -11,6 +11,7 @@ rectangle {
   height: 3000px;
   width: 4000px;
   background-color; #555;
+  opacity: 0.8;
 }
 
 h1 {
