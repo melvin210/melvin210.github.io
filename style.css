@@ -8,20 +8,24 @@ body {
 }
 
 h1 {
+  font-family: "Times New Roman";
   text-align: center;
 }
 
 p {
+  font-family: "Times New Roman";
   text-align: center;
 }
 
 h2 {
+  font-family: "Times New Roman";
   text-align: center;
   font-weight: bold;
   font-size: 20px;
 }
 
 br {
+  font-family: "Times New Roman";
   text-align: center;
 }
 
