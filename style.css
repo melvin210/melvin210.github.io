@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 
-rectangle {
+.rectangle {
   height: 3000px;
   width: 4000px;
   background-color; #555;
