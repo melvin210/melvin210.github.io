@@ -7,6 +7,12 @@ body {
   text-align: center;
 }
 
+rectangle {
+  height: 3000px;
+  width: 4000px;
+  background-color; #555;
+}
+
 h1 {
   text-align: center;
 }
