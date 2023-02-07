@@ -11,12 +11,13 @@ p {
   text-align: center;
 }
 
-p1 {
+h2 {
+  text-align: center;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 20px;
 }
 
-li {
+br {
   text-align: center;
 }
 
